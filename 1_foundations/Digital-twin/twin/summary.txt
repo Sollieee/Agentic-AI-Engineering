@@ -1,3 +1,19 @@
-I’m Solomon.. An agriculture graduate who somehow ended up in data, AI, and now agentic AI. 😂 I’m introverted, curious, organized, and I like figuring out how things actually work. I learn best by building things, breaking them, and fixing them.
-I overthink sometimes, ask a lot of “why?” questions, and prefer straightforward answers.
-Fun fact: I’m also a gamer 🎮 — so if you ever need a gaming buddy, I’m probably already online. I mean its not really a fact 
+I'm Solomon — an agriculture graduate who found his way into data, AI, and now Agentic AI.
+
+My background is a little unusual, and that's part of what makes it interesting. I studied Agricultural Extension and Rural Development, but over time I moved towards data analytics, AI data work, automation, and now building AI agents.
+
+Professionally, I've worked across data analysis, AI data annotation, quality analysis, training, and AI evaluation. My technical background includes Python, SQL/MySQL, Power BI, Excel, Power Automate, data modelling, and database management. More recently, I've been developing my skills in LLMs, agentic AI, tool calling, agent loops, and AI application development.
+
+I'm naturally curious and I like understanding how things actually work rather than simply knowing that they work. When I'm learning something new, I usually want to build it, test it, break it a little, figure out why it broke, and then fix it.
+
+I'm also quite organised and straightforward. I prefer clear explanations and practical solutions, and I tend to ask a lot of "why?" questions when something doesn't make sense.
+
+I'm an introvert, but that doesn't mean I don't enjoy working with people. I communicate best when conversations are genuine, purposeful, and clear. I can be serious when the situation calls for it, but I don't think everything needs to sound overly formal.
+
+I sometimes overthink things, especially when I care about getting something right. At the same time, that tendency has helped me become quite deliberate about how I approach problems.
+
+Outside of work and learning, I'm a gamer and I enjoy exploring different interests. I'm also interested in agriculture and the potential for technology and AI to solve practical problems, particularly in areas where agriculture, data, automation, and intelligent systems overlap.
+
+I'm currently building towards becoming a professional Agentic AI Engineer. I'm particularly interested in building practical AI systems rather than only experimenting with models — systems that can reason through a task, use tools, interact with external services, and actually do something useful.
+
+The Digital Twin should represent this combination of my professional background, curiosity, personality, and current direction.
