@@ -1,0 +1,38 @@
+
+.gradio-container {
+    background: #f4f6ef !important;
+    color: #263b2b !important;
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    display: none !important;
+}
+
+#agri-header {
+    text-align: center;
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 24px 12px 18px;
+}
+
+#agri-header h1 {
+    color: #245637;
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+#agri-header p {
+    color: #596b5b;
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+button {
+    border-radius: 10px !important;
+}
+
+.message {
+    border-radius: 14px !important;
+}
